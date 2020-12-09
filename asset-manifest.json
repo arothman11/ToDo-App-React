@@ -1,13 +1,13 @@
 {
-  "main.css": "/todo-react/static/css/main.1af24ae9.chunk.css",
-  "main.js": "/todo-react/static/js/main.e5da943d.chunk.js",
-  "main.js.map": "/todo-react/static/js/main.e5da943d.chunk.js.map",
-  "static/js/1.0cdd6f18.chunk.js": "/todo-react/static/js/1.0cdd6f18.chunk.js",
-  "static/js/1.0cdd6f18.chunk.js.map": "/todo-react/static/js/1.0cdd6f18.chunk.js.map",
-  "runtime~main.js": "/todo-react/static/js/runtime~main.4ebad8e7.js",
-  "runtime~main.js.map": "/todo-react/static/js/runtime~main.4ebad8e7.js.map",
-  "static/css/main.1af24ae9.chunk.css.map": "/todo-react/static/css/main.1af24ae9.chunk.css.map",
-  "index.html": "/todo-react/index.html",
-  "precache-manifest.857ce18bebcba928b3be6d240402ba41.js": "/todo-react/precache-manifest.857ce18bebcba928b3be6d240402ba41.js",
-  "service-worker.js": "/todo-react/service-worker.js"
+  "main.css": "/09-todo-react-arothman11/static/css/main.1af24ae9.chunk.css",
+  "main.js": "/09-todo-react-arothman11/static/js/main.53d86ac5.chunk.js",
+  "main.js.map": "/09-todo-react-arothman11/static/js/main.53d86ac5.chunk.js.map",
+  "static/js/1.0cdd6f18.chunk.js": "/09-todo-react-arothman11/static/js/1.0cdd6f18.chunk.js",
+  "static/js/1.0cdd6f18.chunk.js.map": "/09-todo-react-arothman11/static/js/1.0cdd6f18.chunk.js.map",
+  "runtime~main.js": "/09-todo-react-arothman11/static/js/runtime~main.d391420a.js",
+  "runtime~main.js.map": "/09-todo-react-arothman11/static/js/runtime~main.d391420a.js.map",
+  "static/css/main.1af24ae9.chunk.css.map": "/09-todo-react-arothman11/static/css/main.1af24ae9.chunk.css.map",
+  "index.html": "/09-todo-react-arothman11/index.html",
+  "precache-manifest.017e9262d52afac0b97d4a6bccd3bf24.js": "/09-todo-react-arothman11/precache-manifest.017e9262d52afac0b97d4a6bccd3bf24.js",
+  "service-worker.js": "/09-todo-react-arothman11/service-worker.js"
 }
