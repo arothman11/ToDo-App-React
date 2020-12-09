@@ -1,0 +1,19 @@
+li{
+  padding: 13px;
+  padding-bottom: 3px;
+  border-bottom:1px solid black;
+}
+
+li .closebtn{
+  border: none;
+  background-color: inherit;
+  position: relative;
+  right: 0;
+}
+
+li .checkbtn{
+  border: none;
+  background-color: inherit;
+  position: relative;
+  left: 0;
+}
